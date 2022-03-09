@@ -1,0 +1,42 @@
+.flexBox{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    width: 100%;
+    height: 60px;
+    background-color: #e5f9f6;
+}
+
+.item{
+    flex: auto;
+    text-align: center;
+    vertical-align: auto;
+    margin: auto;
+    color : #6686b5
+}
+
+.icon{
+    margin:  auto 5%;
+    width: auto;
+    justify-content: center;
+    color: #6686b5;
+}
+
+.menu{
+    margin:  0px 5% 0px 5%;
+}
+
+.login{
+    width: 40%;
+    margin: auto 5%;
+}
+
+.btn{
+    background-color:#5e7fb1;
+    border-radius: 5px;
+    height: 50px;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    border-width: 0px;
+}

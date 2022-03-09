@@ -1,0 +1,16 @@
+.TextBox{
+    background-color: #e5f9f6;
+    padding: 200px;
+}
+
+.Text{
+    text-align: center;
+    margin: auto;
+    color: #6686b5;
+}
+
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

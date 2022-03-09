@@ -1,0 +1,25 @@
+.item{
+    margin: 50px;
+}
+
+.background{
+    background-color: #c2d0e3;
+    width: 300px;
+    height: 30 0px;
+    border-radius: 10px;
+}
+
+.alignText{
+    display: flex;
+    color: #6686b5;
+}
+
+.text{
+
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+.price{
+    margin-right: 10px;
+}
